@@ -1,0 +1,3 @@
+﻿  Vectors.cpp
+E:\Anushka\CPPSandbox\CPPSandbox\Vectors.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  CPPSandbox.vcxproj -> E:\Anushka\CPPSandbox\Debug\CPPSandbox.exe
