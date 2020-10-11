@@ -7,7 +7,7 @@
 // To Do: what other namespaces are there and what do they do
 using namespace std;
 
-int main()
+int Vmain()
 {
 	
 	vector<int> Numbers;

@@ -1,3 +1,1 @@
-﻿  Vectors.cpp
-E:\Anushka\CPPSandbox\CPPSandbox\Vectors.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
-  CPPSandbox.vcxproj -> E:\Anushka\CPPSandbox\Debug\CPPSandbox.exe
+﻿LINK : fatal error LNK1168: cannot open C:\Personal\New folder\CPP-Sandbox\Debug\CPPSandbox.exe for writing
