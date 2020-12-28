@@ -27,10 +27,16 @@
     <ClCompile Include="AP-Problems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RingBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Vectors.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RingBuffer.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
